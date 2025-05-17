@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>私のホームページ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ようこそ！私のホームページへ</h1>
+    <nav>
+      <ul>
+        <li><a href="#profile">プロフィール</a></li>
+        <li><a href="#works">作品</a></li>
+        <li><a href="#contact">お問い合わせ</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="profile">
+      <h2>プロフィール</h2>
+      <p>ここに自己紹介を書きましょう。</p>
+    </section>
+    <section id="works">
+      <h2>作品</h2>
+      <p>ここに自分の作品や実績を紹介しましょう。</p>
+    </section>
+    <section id="contact">
+      <h2>お問い合わせ</h2>
+      <p>メール: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 あなたの名前</p>
+  </footer>
+</body>
+</html>
